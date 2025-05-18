@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.Helper",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.DataAccess", "..\LDM_Mobile_Manager.DataAccess\LDM_Mobile_Manager.DataAccess.csproj", "{2CDFECF4-A1C9-484C-8AF1-D30FBAA724C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.DataService", "LDM_Mobile_Manager.DataService\LDM_Mobile_Manager.DataService.csproj", "{25443DCB-A3DE-4A12-8A86-0B0D1807C786}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2CDFECF4-A1C9-484C-8AF1-D30FBAA724C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CDFECF4-A1C9-484C-8AF1-D30FBAA724C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CDFECF4-A1C9-484C-8AF1-D30FBAA724C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25443DCB-A3DE-4A12-8A86-0B0D1807C786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25443DCB-A3DE-4A12-8A86-0B0D1807C786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25443DCB-A3DE-4A12-8A86-0B0D1807C786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25443DCB-A3DE-4A12-8A86-0B0D1807C786}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
