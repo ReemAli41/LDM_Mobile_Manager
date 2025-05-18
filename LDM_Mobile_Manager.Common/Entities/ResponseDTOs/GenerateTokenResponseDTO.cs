@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace LDM_Mobile_Manager.Common.Entities.ResponseDTOs
 {
     public class GenerateTokenResponseDTO
