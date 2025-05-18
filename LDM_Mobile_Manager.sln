@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager", "LDM_Mobile_Manager.csproj", "{225272E1-D06E-4EE2-9376-D3F7E37C0D81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LDM_Mobile_Manager", "LDM_Mobile_Manager.csproj", "{225272E1-D06E-4EE2-9376-D3F7E37C0D81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.Common", "LDM_Mobile_Manager.Common\LDM_Mobile_Manager.Common.csproj", "{625A88C9-203F-4D7A-ADFE-62D6D7BD115A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LDM_Mobile_Manager.Common", "LDM_Mobile_Manager.Common\LDM_Mobile_Manager.Common.csproj", "{625A88C9-203F-4D7A-ADFE-62D6D7BD115A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.Controllers", "LDM_Mobile_Manager.Controllers\LDM_Mobile_Manager.Controllers.csproj", "{7C57504B-9B5C-48DA-B90F-A3F064820199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LDM_Mobile_Manager.Controllers", "LDM_Mobile_Manager.Controllers\LDM_Mobile_Manager.Controllers.csproj", "{7C57504B-9B5C-48DA-B90F-A3F064820199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.Repo", "LDM_Mobile_Manager.Repo\LDM_Mobile_Manager.Repo.csproj", "{64667065-4EC8-4131-84BC-458FC56EC585}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LDM_Mobile_Manager.Repo", "LDM_Mobile_Manager.Repo\LDM_Mobile_Manager.Repo.csproj", "{64667065-4EC8-4131-84BC-458FC56EC585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.Helper", "LDM_Mobile_Manager.Helper\LDM_Mobile_Manager.Helper.csproj", "{B78BB15F-6182-4889-AA11-E147111B17E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LDM_Mobile_Manager.Helper", "LDM_Mobile_Manager.Helper\LDM_Mobile_Manager.Helper.csproj", "{B78BB15F-6182-4889-AA11-E147111B17E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.DataAccess", "..\LDM_Mobile_Manager.DataAccess\LDM_Mobile_Manager.DataAccess.csproj", "{2CDFECF4-A1C9-484C-8AF1-D30FBAA724C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.DataService", "LDM_Mobile_Manager.DataService\LDM_Mobile_Manager.DataService.csproj", "{7D9DA519-D8DD-40F6-97E8-E61725B0991C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2CDFECF4-A1C9-484C-8AF1-D30FBAA724C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CDFECF4-A1C9-484C-8AF1-D30FBAA724C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CDFECF4-A1C9-484C-8AF1-D30FBAA724C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9DA519-D8DD-40F6-97E8-E61725B0991C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9DA519-D8DD-40F6-97E8-E61725B0991C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9DA519-D8DD-40F6-97E8-E61725B0991C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9DA519-D8DD-40F6-97E8-E61725B0991C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

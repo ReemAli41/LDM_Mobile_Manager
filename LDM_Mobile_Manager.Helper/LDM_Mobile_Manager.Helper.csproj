@@ -6,4 +6,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.36" />
+    <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="6.36.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.36.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.36.0" />
+	  <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.23.1" />
+<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.23.1" />
+	  
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LDM_Mobile_Manager.Common\LDM_Mobile_Manager.Common.csproj" />
+  </ItemGroup>
+
 </Project>
