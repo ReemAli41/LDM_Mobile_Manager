@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LDM_Mobile_Manager.Common.Entities
+namespace LDM_Mobile_Manager.Common.Entities.RequestDTOs
 {
     public class TokenCredentialsRequestDTO
     {
