@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager", "LDM_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.Common", "LDM_Mobile_Manager.Common\LDM_Mobile_Manager.Common.csproj", "{625A88C9-203F-4D7A-ADFE-62D6D7BD115A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.Controllers", "LDM_Mobile_Manager.Controllers\LDM_Mobile_Manager.Controllers.csproj", "{7C57504B-9B5C-48DA-B90F-A3F064820199}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.Repo", "LDM_Mobile_Manager.Repo\LDM_Mobile_Manager.Repo.csproj", "{64667065-4EC8-4131-84BC-458FC56EC585}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDM_Mobile_Manager.Helper", "LDM_Mobile_Manager.Helper\LDM_Mobile_Manager.Helper.csproj", "{B78BB15F-6182-4889-AA11-E147111B17E6}"
@@ -31,10 +29,6 @@ Global
 		{625A88C9-203F-4D7A-ADFE-62D6D7BD115A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{625A88C9-203F-4D7A-ADFE-62D6D7BD115A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{625A88C9-203F-4D7A-ADFE-62D6D7BD115A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7C57504B-9B5C-48DA-B90F-A3F064820199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C57504B-9B5C-48DA-B90F-A3F064820199}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C57504B-9B5C-48DA-B90F-A3F064820199}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C57504B-9B5C-48DA-B90F-A3F064820199}.Release|Any CPU.Build.0 = Release|Any CPU
 		{64667065-4EC8-4131-84BC-458FC56EC585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{64667065-4EC8-4131-84BC-458FC56EC585}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64667065-4EC8-4131-84BC-458FC56EC585}.Release|Any CPU.ActiveCfg = Release|Any CPU
